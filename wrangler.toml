@@ -1,14 +1,14 @@
-name = "atalantic" # todo
+name = "rumahweb" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "atlantic.akbarrksh.xyz"
+pattern = "rumahweb.akbarrksh.xyz"
 custom_domain = true
 [[routes]]
-pattern = "atlantic.kontolbesar.us.kg"
+pattern = "rumahweb.kontolbesar.us.kg"
 custom_domain = true
 
 [vars]
