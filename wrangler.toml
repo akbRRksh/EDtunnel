@@ -8,6 +8,9 @@ compatibility_date = "2023-05-26"
 pattern = "digitalocean.akbarrksh.xyz"
 custom_domain = true
 [[routes]]
+pattern = "quiz.vidio.com.digitalocean.akbarrksh.xyz"
+custom_domain = true
+[[routes]]
 pattern = "digitalocean.kontolbesar.us.kg"
 custom_domain = true
 
