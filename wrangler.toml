@@ -19,6 +19,9 @@ custom_domain = true
 [[routes]]
 pattern = "104.17.71.206.digitalocean.akbarrksh.xyz"
 custom_domain = true
+[[routes]]
+pattern = "sb.scorecardresearch.com.digitalocean.akbarrksh.xyz"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
